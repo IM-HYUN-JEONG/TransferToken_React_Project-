@@ -1,6 +1,6 @@
-# [TransferToken_React_Project-]( https://transfertoken.net/) <br />
+# [TransferToken_React_Project-](https://transfer-token-react-project-r2cz.vercel.app/) <br />
 
-주소 : https://transfertoken.net/ <br />
+주소 : https://transfer-token-react-project-r2cz.vercel.app/ <br />
 ➡️ AWS에 S3버킷에 프로젝트를 업로드하고, Route53에서 도메인 구입 후 https까지 인증하여 실제 사용가능하도록 서비스를 배포하였습니다. <br />
 
 ## TransferToken_Project를 만들게 된 계기
