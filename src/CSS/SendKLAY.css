@@ -1,0 +1,124 @@
+@media screen and (max-width: 767px) {
+  .mobile-items-area {
+    text-align: start;
+    display: inline-block;
+    align-items: center;
+    position: relative;
+
+    background-color: whitesmoke;
+    width: 270px;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+  }
+  .mobile-address {
+    font-size: 8pt;
+  }
+
+  .mobile-address-area {
+    text-align: start;
+    display: inline-block;
+    align-items: center;
+    position: relative;
+    font-size: 11pt;
+
+    background-color: whitesmoke;
+    width: 295px;
+    height: 39px;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+  }
+
+  .mobile-input-area {
+    width: 270px;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    border: 1px solid #dfe1e5;
+    border-color: gray;
+    border-radius: 8px;
+  }
+}
+
+.btncolor {
+  fill: black;
+  color: black;
+  background-color: black;
+}
+
+.message-area {
+  color: gray;
+}
+
+.input-area {
+  width: 520px;
+  height: 30px;
+  padding: 5px 5px 5px 5px;
+  margin: 5px;
+  border: 1px solid #dfe1e5;
+  border-color: gray;
+  border-radius: 8px;
+}
+
+.sendBtn {
+  width: 250px;
+  height: 30px;
+  color: white;
+  font-size: 18px;
+  background-color: #3b5998;
+  border: 1px solid #3b5998;
+  border-color: #3b5998;
+  border-radius: 8px;
+  margin-bottom: 50px;
+
+  cursor: pointer;
+}
+
+.address {
+  color: #2c3539;
+
+  font-size: 10pt;
+}
+.address-area {
+  background-color: white;
+}
+
+.items-area {
+  text-align: start;
+  display: inline-block;
+  align-items: center;
+  position: relative;
+
+  background-color: whitesmoke;
+  width: 520px;
+  height: 30px;
+  padding: 5px 5px 5px 5px;
+  margin: 5px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+.open-send {
+  display: inline-block;
+  position: absolute;
+  left: 83%;
+
+  font-size: 13pt;
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding-left: 6px;
+  padding-right: 6px;
+
+  cursor: pointer;
+}
+
+.klayIMG {
+  width: 0.5cm;
+  height: 0.5cm;
+  padding-right: 5px;
+  padding-top: 1px;
+}

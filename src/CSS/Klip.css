@@ -1,0 +1,43 @@
+@media screen and (max-width: 767px) {
+  #mobile-klipBtn {
+    color: #ffff;
+    background-color: #216fea;
+    border-color: #216fea;
+    border-radius: 9px;
+    box-shadow: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 220px;
+    font-size: 10pt;
+
+    cursor: pointer;
+  }
+}
+
+#klipBtn {
+  color: #ffff;
+  background-color: #216fea;
+  border-color: #216fea;
+  border-radius: 9px;
+  box-shadow: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 56px;
+  width: 300px;
+  pointer-events: all;
+
+  cursor: pointer;
+}
+
+.klipMsg {
+  margin-left: 8px;
+  margin-right: 8px;
+  font-size: 15px;
+  position: relative;
+  top: -10%;
+}
+
+.QrMessage {
+  margin-top: 10px;
+}
